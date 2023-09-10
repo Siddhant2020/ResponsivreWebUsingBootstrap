@@ -77,6 +77,11 @@
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="bootstrap\js\npm.js" />
     <Content Include="Images\prime.jpg" />
+    <Content Include="Images\WIN_20230524_18_38_37_Pro.jpg" />
+    <Content Include="Images\WIN_20230524_18_39_04_Pro.jpg" />
+    <Content Include="Images\WIN_20230524_18_39_19_Pro.jpg" />
+    <Content Include="Images\WIN_20230524_21_39_39_Pro.jpg" />
+    <Content Include="Images\WIN_20230524_21_39_43_Pro.jpg" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
